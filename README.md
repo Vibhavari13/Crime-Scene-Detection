@@ -1,8 +1,8 @@
 This repository contains the code implementing deep learning computer vision techniques for the prediction of crime scene objects.
 
 There are two types of imlementations of this project :
-  1.Faster-RCNN model- WeaponDetection.py
-  2.YOLO V5 model
+  1.Faster-RCNN model- weapon_detection.py
+  2.YOLO V5 model- yolov5.py
   
  The major findings of the experimentation of both of the models on our dataset were that :-
   1. Faster-RCNN perferformed better in terms of accuracy producing about 92% mAP score
