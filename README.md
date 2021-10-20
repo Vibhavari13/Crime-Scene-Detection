@@ -10,3 +10,7 @@ There are two types of imlementations of this project :
   
   The link to the dataset can be found here -https://sci2s.ugr.es/weapons-detection
  
+ Implemented by: 
+  1. Aditya K (https://github.com/Aditya149349)
+  2. Vibhavari B Rao (https://github.com/Vibhavari13)
+  3. Deeksha Punachithaya (https://github.com/deeksha-punachithaya)
